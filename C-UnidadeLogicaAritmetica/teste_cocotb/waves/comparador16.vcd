@@ -1,0 +1,34 @@
+$date
+  Fri Sep 23 22:50:09 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module comparador16 $end
+$var reg 16 ! a[15:0] $end
+$var reg 1 " zr $end
+$var reg 1 # ng $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000000000000000 !
+1"
+0#
+#1000000
+#2000000
+b1000000000000000 !
+0"
+1#
+#3000000
+#4000000
+b0101010101010101 !
+0#
+#5000000
+#6000000

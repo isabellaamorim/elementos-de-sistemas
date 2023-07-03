@@ -1,0 +1,30 @@
+$date
+  Fri Sep 23 22:50:10 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module zerador16 $end
+$var reg 1 ! z $end
+$var reg 16 " a[15:0] $end
+$var reg 16 # y[15:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+1!
+b1111111111111111 "
+b0000000000000000 #
+#1000000
+#2000000
+0!
+b1010010110100101 "
+b1010010110100101 #
+#3000000
+#4000000

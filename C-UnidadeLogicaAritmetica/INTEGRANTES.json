@@ -1,0 +1,28 @@
+{
+  "aluno-1": {
+    "nome": "Diogo Pereira Lobo",
+    "email-insper": "diogopl1@al.insper.edu.br",
+    "user-github": "DiogoWolfie"
+  },
+  "aluno-2":{
+    "nome": "Mariana Araujo de Albuquerque",
+    "email-insper": "marianaaa1@al.insper.edu.br",
+    "user-github": "mariana3albuquerque"
+  },
+  "aluno-3" : {
+    "nome": "Isabella dos Santos de Amorim", 
+    "email-insper": "isabellasa@al.insper.edu.br", 
+    "user-github": "isabellaamorim"
+  },
+  "aluno-4" : {
+    "nome": "Tales Ivalque Taveira de Freitas", 
+    "email-insper": "talesitf@al.insper.edu.br", 
+    "user-github": "talesitf"
+  },
+    "aluno-5": {
+    "nome": "Ana Laiz Novais De Farias",
+    "email-insper": "analnf@al.insper.edu.br",
+    "user-github": "LaizFarias"
+  }
+
+}

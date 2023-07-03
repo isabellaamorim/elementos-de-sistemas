@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1663178162" />
+    <testcase name="tb_xor3" classname="tests" file="/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/tests.py" lineno="510" time="0.00040912628173828125" sim_time_ns="1.000001" ratio_time="2444.2355444662003">
+      <failure />
+    </testcase>
+  </testsuite>
+</testsuites>

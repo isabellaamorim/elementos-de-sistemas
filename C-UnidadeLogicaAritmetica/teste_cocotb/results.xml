@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1663984211" />
+    <testcase name="tb_ALU" classname="tests" file="/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/tests.py" lineno="149" time="0.002706289291381836" sim_time_ns="36.000001" ratio_time="13302.347651687427" />
+  </testsuite>
+</testsuites>

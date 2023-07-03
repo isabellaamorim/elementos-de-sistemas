@@ -1,0 +1,5 @@
+Explicando RTL e ONDA Flip Flop JK: https://www.youtube.com/watch?v=OAqHha3onVw&ab_channel=DiogoLobo
+Explicando RTL e ONDA Flip Flop T: https://www.youtube.com/watch?v=gq2_M6AJEYY&ab_channel=IsabellaSantos
+Explicando RTL e ONDA Counter Down: https://www.youtube.com/watch?v=Co7toyYyNzg&ab_channel=BrunaMeinberg
+FPGA Program Counter: https://www.youtube.com/shorts/K6q3fPXX6eA
+FPGA RAM 8: https://www.youtube.com/shorts/2DqnFOVk1Yo

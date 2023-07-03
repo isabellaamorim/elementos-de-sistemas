@@ -1,0 +1,97 @@
+v 4
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../src/Add16.vhd" "14dfdd291b2f83779a7686448269c4f822e91768" "20220924015010.890":
+  entity add16 at 8( 140) + 0 on 19;
+  architecture rtl of add16 at 19( 363) + 0 on 20;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../src/ALU.vhd" "ed515a2e4543aeb54c9eda877291c87a94768690" "20220924015010.890":
+  entity alu at 26( 812) + 0 on 11;
+  architecture rtl of alu at 44( 1605) + 0 on 12;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../src/comparador16.vhd" "11f713d23b4518e0e1819ab586eefa13c2cf576d" "20220924015010.890":
+  entity comparador16 at 5( 67) + 0 on 23;
+  architecture rtl of comparador16 at 16( 272) + 0 on 24;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../src/FullAdder.vhd" "4af13df1ffbdd542a5598b65ab9fd40ef3df3c7c" "20220924015010.890":
+  entity fulladder at 7( 90) + 0 on 25;
+  architecture rtl of fulladder at 17( 265) + 0 on 26;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../src/HalfAdder.vhd" "9f08dfd376e4c2234463cf8e3b9e06edb51cce67" "20220924015010.870":
+  entity halfadder at 7( 90) + 0 on 4;
+  architecture rtl of halfadder at 17( 266) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../src/Inc16.vhd" "d8baf8ef46e803a4655f2dd06476a43acd2e530e" "20220924015010.870":
+  entity inc16 at 8( 154) + 0 on 4;
+  architecture rtl of inc16 at 18( 333) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../src/inversor16.vhd" "1556114a774de1a9db2beba7fd79df73b62a7113" "20220924015010.890":
+  entity inversor16 at 5( 69) + 0 on 15;
+  architecture rtl of inversor16 at 16( 299) + 0 on 16;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../src/zerador16.vhd" "88f5b094c730c36804126996410b3bd0edea6356" "20220924015010.890":
+  entity zerador16 at 5( 68) + 0 on 13;
+  architecture rtl of zerador16 at 16( 299) + 0 on 14;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/And16.vhd" "f299dae6ec050713baf3d2a8b71e6f983ffcee83" "20220924015010.890":
+  entity and16 at 1( 0) + 0 on 17;
+  architecture arch of and16 at 11( 212) + 0 on 18;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/BarrelShifter16.vhd" "8ba036f09eda69b1d7bfcd23a9eaf8f520bb4a21" "20220924015010.870":
+  entity barrelshifter16 at 1( 0) + 0 on 4;
+  architecture rtl of barrelshifter16 at 13( 381) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/binarioToBcd.vhd" "542f45cecb158fa1fc2b506aead41d22839a6ae8" "20220924015010.870":
+  entity binariotobcd at 4( 80) + 0 on 4;
+  architecture behaviour of binariotobcd at 17( 408) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/circuito.vhd" "536a16cb2180407bb417e5bebeadfc310d30d424" "20220924015010.870":
+  entity circuito at 1( 0) + 0 on 4;
+  architecture arch of circuito at 10( 139) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/ConceitoA.vhd" "439831da04a197b4bddc49b089b9ade1dd1770ae" "20220924015010.870":
+  entity conceitoa at 4( 87) + 0 on 4;
+  architecture rtl of conceitoa at 26( 696) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/detectorDeMoedas.vhd" "319c08cbc8112d34e66e997afa654e1a997862be" "20220924015010.871":
+  entity detectordemoedas at 1( 0) + 0 on 4;
+  architecture arch of detectordemoedas at 10( 170) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/DMux2Way.vhd" "3b4ff40542a5493db2b1c1e8058124f50347098e" "20220924015010.871":
+  entity dmux2way at 1( 0) + 0 on 4;
+  architecture rtl of dmux2way at 12( 178) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/DMux4Way.vhd" "b2c95a5e08e5aca7d2556f4a757ce02eaffa2458" "20220924015010.871":
+  entity dmux4way at 1( 0) + 0 on 4;
+  architecture rtl of dmux4way at 14( 243) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/DMux8Way.vhd" "1c92effb02e39b09ee9a99c5e996f0e2e35321f8" "20220924015010.871":
+  entity dmux8way at 1( 0) + 0 on 4;
+  architecture arch of dmux8way at 18( 335) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/impressora.vhd" "32b480d822cccdbf0f2e7b2a6e65a87089425403" "20220924015010.871":
+  entity impressora at 1( 0) + 0 on 4;
+  architecture arch of impressora at 10( 148) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Mux16.vhd" "3a3569ae6853d86e82bdc368fbd14c9d80a1b001" "20220924015010.890":
+  entity mux16 at 1( 0) + 0 on 21;
+  architecture arch of mux16 at 12( 235) + 0 on 22;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Mux2Way.vhd" "2ad2220154e0fc18ee50b04794b93ac9ade7fe48" "20220924015010.871":
+  entity mux2way at 1( 0) + 0 on 4;
+  architecture arch of mux2way at 12( 177) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Mux4Way16.vhd" "68f4ad2892988fe0506ad2bc6210cf9a9a5ae1d7" "20220924015010.871":
+  entity mux4way16 at 1( 0) + 0 on 4;
+  architecture arch of mux4way16 at 14( 344) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Mux4Way.vhd" "c9b6c8a564eb4f2883e71c828fd19371e2fbe4ea" "20220924015010.871":
+  entity mux4way at 1( 0) + 0 on 4;
+  architecture arch of mux4way at 14( 242) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Mux8Way16.vhd" "cd74b4e20963825492bc53e93ce1c5f2deb7210e" "20220924015010.871":
+  entity mux8way16 at 1( 0) + 0 on 4;
+  architecture arch of mux8way16 at 18( 516) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Mux8Way.vhd" "7b50fb7e3bab19774539a0a141af66ffece3db51" "20220924015010.871":
+  entity mux8way at 1( 0) + 0 on 4;
+  architecture arch of mux8way at 18( 334) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Nand2.vhd" "a5a20be0924f4b7bc1c3060df9f791c4eb0cbfef" "20220924015010.871":
+  entity nand2 at 1( 0) + 0 on 4;
+  architecture rtl of nand2 at 12( 179) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Nor8Way.vhd" "510c65ff241f37a9640a32dd827c6799cb13e156" "20220924015010.871":
+  entity nor8way at 1( 0) + 0 on 4;
+  architecture arch of nor8way at 17( 292) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Not16.vhd" "4dbfba6d5a7523f00e619a5e0d130eb83197e8d5" "20220924015010.871":
+  entity not16 at 1( 0) + 0 on 4;
+  architecture arch of not16 at 10( 169) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Or16.vhd" "7f8cd8768352e0d38df4f6bb46d2fb28196b627a" "20220924015010.871":
+  entity or16 at 1( 0) + 0 on 4;
+  architecture arch of or16 at 11( 211) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/Or8Way.vhd" "92c67e00a4aa00a50724ddded4e0c6718ed1addc" "20220924015010.871":
+  entity or8way at 1( 0) + 0 on 4;
+  architecture arch of or8way at 17( 290) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/sevenSeg.vhd" "b4e679cfb382076bdda71e65b469cfba7c2a028a" "20220924015010.871":
+  entity sevenseg at 1( 0) + 0 on 4;
+  architecture arch of sevenseg at 10( 171) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/TopLevel.vhd" "ba952a31dd144215262ce1bd6392b2a8b2be387b" "20220924015010.871":
+  entity toplevel at 12( 340) + 0 on 4;
+  architecture rtl of toplevel at 31( 762) + 0 on 4;
+file "/home/borg/Desktop/ELESIS/APSC/aps-c-farofa/C-UnidadeLogicaAritmetica/teste_cocotb/" "../../B-LogicaCombinacional/src/xor3.vhd" "e73c5795ffc0445c57c0c2c8ba59fa411d6d61a6" "20220924015010.871":
+  entity xor3 at 1( 0) + 0 on 4;
+  architecture arch of xor3 at 10( 134) + 0 on 4;

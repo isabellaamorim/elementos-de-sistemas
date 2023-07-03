@@ -1,0 +1,30 @@
+$date
+  Wed Sep 14 14:55:57 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module mux4way16 $end
+$var reg 16 ! a[15:0] $end
+$var reg 16 " b[15:0] $end
+$var reg 16 # c[15:0] $end
+$var reg 16 $ d[15:0] $end
+$var reg 2 % sel[1:0] $end
+$var reg 16 & q[15:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b1111000011110000 !
+b0000000000000000 "
+b1111000011110000 #
+b0000000000000000 $
+b00 %
+bUUUUUUUUUUUUUUUU &
+#1000000

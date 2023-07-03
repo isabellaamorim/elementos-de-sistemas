@@ -1,0 +1,40 @@
+$date
+  Fri Sep 23 22:50:06 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module halfadder $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # soma $end
+$var reg 1 $ vaium $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+#1000000
+#2000000
+1"
+1#
+#3000000
+#4000000
+1!
+0"
+#5000000
+#6000000
+1"
+0#
+1$
+#7000000
+#8000000

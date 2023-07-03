@@ -1,0 +1,26 @@
+$date
+  Wed Sep 14 14:55:59 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module barrelshifter16 $end
+$var reg 16 ! a[15:0] $end
+$var reg 1 " dir $end
+$var reg 4 # size[3:0] $end
+$var reg 16 $ q[15:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000000000000010 !
+0"
+b0000 #
+bUUUUUUUUUUUUUUUU $
+#1000000

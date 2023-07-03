@@ -1,0 +1,26 @@
+$date
+  Wed Sep 14 14:56:00 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module detectordemoedas $end
+$var reg 1 ! q $end
+$var reg 1 " d $end
+$var reg 1 # n $end
+$var reg 5 $ cents[4:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+bUUUUU $
+#1000000

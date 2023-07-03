@@ -1,0 +1,22 @@
+$date
+  Wed Sep 14 14:56:02 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module sevenseg $end
+$var reg 4 ! bcd[3:0] $end
+$var reg 7 " leds[6:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+bUUUUUUU "
+#1000000

@@ -1,0 +1,73 @@
+v 4
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/And16.vhd" "efd34cc5776618591a43b127e858e74573e2c822" "20220914175602.799":
+  entity and16 at 1( 0) + 0 on 4;
+  architecture arch of and16 at 11( 212) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/BarrelShifter16.vhd" "4c3c54e174067768fdc539f61f93ebee76632a77" "20220914175602.799":
+  entity barrelshifter16 at 1( 0) + 0 on 4;
+  architecture rtl of barrelshifter16 at 12( 355) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/binarioToBcd.vhd" "542f45cecb158fa1fc2b506aead41d22839a6ae8" "20220914175602.799":
+  entity binariotobcd at 4( 80) + 0 on 4;
+  architecture behaviour of binariotobcd at 17( 408) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/circuito.vhd" "24996ad20564a73bea2dc1dd9df5cfccb00dd5ac" "20220914175602.799":
+  entity circuito at 1( 0) + 0 on 4;
+  architecture arch of circuito at 10( 139) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/ConceitoA.vhd" "f607f5cbb16399558571cb52cb7fd31e873f8d7f" "20220914175602.799":
+  entity conceitoa at 4( 87) + 0 on 4;
+  architecture rtl of conceitoa at 26( 696) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/detectorDeMoedas.vhd" "4816234f8585f0cf957f21332e74d3d05d126589" "20220914175602.799":
+  entity detectordemoedas at 1( 0) + 0 on 4;
+  architecture arch of detectordemoedas at 10( 170) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/DMux2Way.vhd" "230c1fc81c758119b62928ed27e0ffa4a0b537ff" "20220914175602.799":
+  entity dmux2way at 1( 0) + 0 on 4;
+  architecture rtl of dmux2way at 12( 178) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/DMux4Way.vhd" "b2c95a5e08e5aca7d2556f4a757ce02eaffa2458" "20220914175602.799":
+  entity dmux4way at 1( 0) + 0 on 4;
+  architecture rtl of dmux4way at 14( 243) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/DMux8Way.vhd" "8397f753f98e552b67aeb356ad3f7720a97e2a53" "20220914175602.799":
+  entity dmux8way at 1( 0) + 0 on 4;
+  architecture arch of dmux8way at 18( 335) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/impressora.vhd" "32b480d822cccdbf0f2e7b2a6e65a87089425403" "20220914175602.799":
+  entity impressora at 1( 0) + 0 on 4;
+  architecture arch of impressora at 10( 148) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Mux16.vhd" "89f811348b88675677e9901dee16ac0799579978" "20220914175602.799":
+  entity mux16 at 1( 0) + 0 on 4;
+  architecture arch of mux16 at 12( 235) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Mux2Way.vhd" "877e31eec22519b636a05b7dd98557e392c4b796" "20220914175602.799":
+  entity mux2way at 1( 0) + 0 on 4;
+  architecture arch of mux2way at 12( 177) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Mux4Way16.vhd" "665ffbd763998424f9d5aefc95281ad9da01dc09" "20220914175602.800":
+  entity mux4way16 at 1( 0) + 0 on 4;
+  architecture arch of mux4way16 at 14( 344) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Mux4Way.vhd" "fada7b66c0c5608c1a23d1380f5d450aa9ad0190" "20220914175602.800":
+  entity mux4way at 1( 0) + 0 on 4;
+  architecture arch of mux4way at 14( 242) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Mux8Way16.vhd" "cc2ecfc8b2ecdf1e82ea1a43bea82448eda5a265" "20220914175602.800":
+  entity mux8way16 at 1( 0) + 0 on 4;
+  architecture arch of mux8way16 at 18( 516) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Mux8Way.vhd" "7b50fb7e3bab19774539a0a141af66ffece3db51" "20220914175602.800":
+  entity mux8way at 1( 0) + 0 on 4;
+  architecture arch of mux8way at 18( 334) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Nand2.vhd" "a5a20be0924f4b7bc1c3060df9f791c4eb0cbfef" "20220914175602.800":
+  entity nand2 at 1( 0) + 0 on 4;
+  architecture rtl of nand2 at 12( 179) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Nor8Way.vhd" "c03124523409bf97e9b0d2fd970e0df07acce40a" "20220914175602.800":
+  entity nor8way at 1( 0) + 0 on 4;
+  architecture arch of nor8way at 17( 292) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Not16.vhd" "4dbfba6d5a7523f00e619a5e0d130eb83197e8d5" "20220914175602.800":
+  entity not16 at 1( 0) + 0 on 4;
+  architecture arch of not16 at 10( 169) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Or16.vhd" "5d403364c2512cfe62b98647fc735d9a8a0cd88c" "20220914175602.800":
+  entity or16 at 1( 0) + 0 on 4;
+  architecture arch of or16 at 11( 211) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/Or8Way.vhd" "92c67e00a4aa00a50724ddded4e0c6718ed1addc" "20220914175602.800":
+  entity or8way at 1( 0) + 0 on 4;
+  architecture arch of or8way at 17( 290) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/sevenSeg.vhd" "a18877d310fa0ae4fb52909d430a83bbc7ba4d0e" "20220914175602.800":
+  entity sevenseg at 1( 0) + 0 on 4;
+  architecture arch of sevenseg at 10( 171) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/TopLevel.vhd" "ba952a31dd144215262ce1bd6392b2a8b2be387b" "20220914175602.800":
+  entity toplevel at 12( 340) + 0 on 4;
+  architecture rtl of toplevel at 31( 762) + 0 on 4;
+file "/home/borg/elementos/aps-b/aps-b-diogo_tales_isa_ana/B-LogicaCombinacional/teste_cocotb/" "../src/xor3.vhd" "082cf14658ed33561fc2dc1ba3a5a48fb79cbb66" "20220914175602.811":
+  entity xor3 at 1( 0) + 0 on 11;
+  architecture arch of xor3 at 10( 134) + 0 on 12;
